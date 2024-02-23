@@ -1,0 +1,31 @@
+/* HomePage.css */
+.home-page-content {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-page-content img {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    padding-top: 100px;
+  }
+  
+  .home-page-content h1 {
+    color: #1c4b82;
+  }
+  
+  .home-page-content p {
+    color: #555;
+    line-height: 1.5; /* Adjust the line height for better readability */
+    margin-bottom: 15px;
+  }
+  
+  /* Add a special style for the emoji paragraph */
+  .home-page-content p.emoji {
+    font-size: 24px; /* Increase the font size for the emoji paragraph */
+  }
