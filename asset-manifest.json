@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tesoro-app/static/css/main.be502a95.css",
-    "main.js": "/tesoro-app/static/js/main.a0d0b667.js",
+    "main.js": "/tesoro-app/static/js/main.bbe851ed.js",
     "static/js/453.3746ed21.chunk.js": "/tesoro-app/static/js/453.3746ed21.chunk.js",
     "static/media/profil.png": "/tesoro-app/static/media/profil.f1b0de9bd28970dfc282.png",
     "static/media/download.svg": "/tesoro-app/static/media/download.e64927eb9ae914832de7f8325ca2494b.svg",
@@ -9,11 +9,11 @@
     "static/media/tresorologo.svg": "/tesoro-app/static/media/tresorologo.7489a3e60faf60d11a30bb6d39ab963b.svg",
     "index.html": "/tesoro-app/index.html",
     "main.be502a95.css.map": "/tesoro-app/static/css/main.be502a95.css.map",
-    "main.a0d0b667.js.map": "/tesoro-app/static/js/main.a0d0b667.js.map",
+    "main.bbe851ed.js.map": "/tesoro-app/static/js/main.bbe851ed.js.map",
     "453.3746ed21.chunk.js.map": "/tesoro-app/static/js/453.3746ed21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be502a95.css",
-    "static/js/main.a0d0b667.js"
+    "static/js/main.bbe851ed.js"
   ]
 }
