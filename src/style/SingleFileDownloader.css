@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.button-tableau {
+  padding: auto;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.download-button{
+  background-color: #4caf50;
+}
+
+.delete-button{
+  background-color: #da0f0f;
+
+}
+
+td button {
+  display: block;
+  margin: 0 auto;
+}
+
+.down-load-image{ 
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  padding-top: 100px;
+}
